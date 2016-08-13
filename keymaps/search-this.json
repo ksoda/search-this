@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "search-this:toggle"
+    "ctrl-alt-g": "search-this:search"
   }
 }

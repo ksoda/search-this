@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle search-this",
-        "command": "search-this:toggle"
+        "label": "Search Google for",
+        "command": "search-this:search"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "search-this",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "search-this:toggle"
+              "label": "Search",
+              "command": "search-this:search"
             }
           ]
         }
